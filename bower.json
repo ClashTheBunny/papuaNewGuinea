@@ -1,0 +1,22 @@
+{
+  "name": "papuaNewGuinea",
+  "homepage": "https://github.com/ClashTheBunny/papuaNewGuinea",
+  "description": "Animation of number of plane flights sponsored at a VBS event.",
+  "main": "index.html",
+  "authors": [
+    "Randall Mason <randall@mason.ch>"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "babel-polyfill": "^0.0.1",
+    "aureooms-js-itertools": "^1.3.0",
+    "jquery": "^3.0.0"
+  }
+}
